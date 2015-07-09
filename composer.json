@@ -1,0 +1,17 @@
+{
+    "name": "vBSO/metrix",
+    "description": "Metrics",
+    "keywords": ["qua-qua"],
+    "homepage": "http://qua-qua.org",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Team",
+            "email": "qa2@team.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.9"
+    },
+
+}
